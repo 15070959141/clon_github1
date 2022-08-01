@@ -11,5 +11,6 @@ public class helloGIT {
           System.out.println("在线更新2");
           System.out.println("在线更新3");
             System.out.println("我又来了");
+        System.out.println("我又来了2");
     }
 }
